@@ -13,3 +13,8 @@ https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/
 
 Why does batch normalistaion work?
 https://www.youtube.com/watch?v=nUUqwaxLnWs
+
+Why is RELU preferred over sigmoid?
+https://datascience.stackexchange.com/questions/15484/sigmoid-vs-relu-function-in-convnets
+https://stats.stackexchange.com/questions/218752/relu-vs-sigmoid-vs-softmax-as-hidden-layer-neurons
+
