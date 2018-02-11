@@ -3,3 +3,10 @@ https://www.researchgate.net/post/How_do_we_choose_the_filters_for_the_convoluti
 
  Local Response Normalization:
  https://prateekvjoshi.com/2016/04/05/what-is-local-response-normalization-in-convolutional-neural-networks/
+
+
+Basic implementation of cnn and ann on mnist
+https://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/
+
+One-hot endcoding:
+https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/
